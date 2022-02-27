@@ -1,0 +1,22 @@
+{
+  "name": "my_first_project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cakej7/my_first_project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cakej7/my_first_project/issues"
+  },
+  "homepage": "https://github.com/Cakej7/my_first_project#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
