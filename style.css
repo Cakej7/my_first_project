@@ -1,4 +1,7 @@
-P {
+p {
     font-size: 200px;
 }
 
+body {
+    border: 30px solid black;
+}
